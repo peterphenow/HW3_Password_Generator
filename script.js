@@ -18,6 +18,10 @@ function generatePassword() {
 
   //set variables for what user wants in password
   let pwLength = prompt("Please enter a number from 8 to 128 for password length.");
+  //check that the user entered a valid number
+  if (pwLength < 8 || pwLength > 128 || isNaN(pwLength)) {
+    return alert("Dude, pick a number between 8 and 128!");
+  }
   let lowerQuery = confirm("Do you want lowercase letters in your password?");
   let upperQuery = confirm("Do you want uppercase letters in your password?");
   let symbolQuery = confirm("Do you want symbols in your password?");
