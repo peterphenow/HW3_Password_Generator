@@ -14,6 +14,6 @@ At the time I created this script, I had a difficult time with the large if/else
 
 ### **Screenshots**
 
-<img src="./assets/images/pwLength.png" alt="prompt to input password length" width="500" height="350">&nbsp;&nbsp;<img src="./assets/images/errorCheck.png" alt="alert if invalid number is entered" width="500" height="350">
+<img src="./assets/images/pwLength.png" alt="prompt to input password length" width="400" height="250">&nbsp;&nbsp;<img src="./assets/images/errorCheck.png" alt="alert if invalid number is entered" width="400" height="250">
 
-<img src="./assets/images/lowercase.png" alt="confirm lowercase characters" width="500" height="350">&nbsp;&nbsp;<img src="./assets/images/results.png" alt="succesfully generated password" width="500" height="350">
+<img src="./assets/images/lowercase.png" alt="confirm lowercase characters" width="400" height="250">&nbsp;&nbsp;<img src="./assets/images/results.png" alt="succesfully generated password" width="400" height="250">
